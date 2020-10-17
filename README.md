@@ -1,4 +1,4 @@
-# bmi_calculator_of_techily_fly
+## BMI Calculator Of Techily Fly
 
 A new Flutter project.
 
